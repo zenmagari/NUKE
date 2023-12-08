@@ -1,18 +1,5 @@
-  ██████  █    ██ ▓█████▄  ▒█████  ▒██   ██▒▓██   ██▓▒███████▒
-▒██    ▒  ██  ▓██▒▒██▀ ██▌▒██▒  ██▒▒▒ █ █ ▒░ ▒██  ██▒▒ ▒ ▒ ▄▀░
-░ ▓██▄   ▓██  ▒██░░██   █▌▒██░  ██▒░░  █   ░  ▒██ ██░░ ▒ ▄▀▒░ 
-  ▒   ██▒▓▓█  ░██░░▓█▄   ▌▒██   ██░ ░ █ █ ▒   ░ ▐██▓░  ▄▀▒   ░
-▒██████▒▒▒▒█████▓ ░▒████▓ ░ ████▓▒░▒██▒ ▒██▒  ░ ██▒▓░▒███████▒
-▒ ▒▓▒ ▒ ░░▒▓▒ ▒ ▒  ▒▒▓  ▒ ░ ▒░▒░▒░ ▒▒ ░ ░▓ ░   ██▒▒▒ ░▒▒ ▓░▒░▒
-░ ░▒  ░ ░░░▒░ ░ ░  ░ ▒  ▒   ░ ▒ ▒░ ░░   ░▒ ░ ▓██ ░▒░ ░░▒ ▒ ░ ▒
-░  ░  ░   ░░░ ░ ░  ░ ░  ░ ░ ░ ░ ▒   ░    ░   ▒ ▒ ░░  ░ ░ ░ ░ ░
-      ░     ░        ░        ░ ░   ░    ░   ░ ░       ░ ░    
-                   ░                         ░ ░     ░        
-
-XYZ was made for educational and demonstrational perposes only.
 
 DISCLAIMER
-- IF SOMETHING BAD HAPPENS TO YOU FOR USING THIS TOOL, I WILL NOT HELP YOU WITH ANYTHING BECAUSE I CANNOT CONTROL WHAT YOU DO WITH THIS TOOL OR WHAT IT WILL CAUSE.
 - This tool is provided "as is" without any warranty. Use it at your own risk.
 
 NOTE
