@@ -15,9 +15,9 @@ def main():
     try:
         if len(sys.argv) < 5:
             print('''
-    █▀█ █▀▄ ▄▀█ █▄█
-    █▄█ █▄▀ █▀█ ░█░
-        ver 0.3\n''')
+   █▀▄ █▄░█ █░█ █░░ █░░
+   █▄▀ █░▀█ █▄█ █▄▄ █▄▄
+         ver 0.3\n''')
 
         ip = input("IP: ")
         port = int(input("Port: "))
