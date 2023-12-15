@@ -24,11 +24,7 @@ def main():
         threads = int(input("Threads: "))
         size = int(65500)
 
-    except KeyboardInterrupt:
-        print("Interrupt")
-        sys.exit()
-
-    except Exception as e:
+    except KeyboardInterrupt and Exception as e:
         print(f"Error: {e}")
         sys.exit()
 
